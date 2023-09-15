@@ -1,8 +1,8 @@
 # Mental-Pattern-Recognition
 
 <p align="center">
-<img width="400" src="Files/Application%20Example.gif" alt="color picker" />
-<img src="Files/mental_control_scheme.png" width=400>
+<img height="400" src="Files/Application%20Example.gif" alt="color picker" />
+<img src="Files/mental_control_scheme.png" height=400>
 </p>
 
 A Framework for classifying mental patterns based on Signal Processing and Machine Learning techniques.
