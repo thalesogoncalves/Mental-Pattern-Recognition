@@ -18,12 +18,9 @@ Specifically, we pre-process the electroencephalogram (EEG) signals via a sequen
 
 </center>
 
-<center>
+<div align="center">
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-</center>
+COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
+:--- | :---: | ---:
+</br></br>left | center | </br></br>right
+</div>
