@@ -2,7 +2,7 @@
 
 <p align="center">
 <img width="400" src="Files/Application%20Example.gif" alt="color picker" />
-<img src="Files/mental_control_scheme.png" width=100>
+<img src="Files/mental_control_scheme.png" width=400>
 </p>
 
 A Framework for classifying mental patterns based on Signal Processing and Machine Learning techniques.
