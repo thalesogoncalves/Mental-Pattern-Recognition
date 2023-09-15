@@ -1,8 +1,6 @@
 # Mental-Pattern-Recognition
 
-[//]: # ![](https://github.com/thalesogoncalves/Mental-Pattern-Recognition/blob/main/Files/Application%20Example.gif)
-
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (![](https://github.com/thalesogoncalves/Mental-Pattern-Recognition/blob/main/Files/Application%20Example.gif))
 
 1. Adding a GIF from an external URL to markdown.
 
