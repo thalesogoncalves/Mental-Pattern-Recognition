@@ -6,4 +6,4 @@ Specifically, we pre-process the electroencephalogram (EEG) signals via a sequen
 <img src="Files/mental_control_scheme.png" width=500>
 </p>
 
-![](https://github.com/thalesogoncalves/Mental-Pattern-Recognition/Files/Application_Example.gif)
+![](https://github.com/thalesogoncalves/Mental-Pattern-Recognition/blob/main/Files/Application_Example.gif)
